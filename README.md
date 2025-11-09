@@ -1,24 +1,28 @@
 # git-training
 Let's Start Learning Git
 
-Git commands:
-
+# Git commands:
+```
 mkdir git-train
-
+```
+```
 cd git-train
-
+```
 # Initialize a git on local
 ```
 git init
-
+```
+```
 touch demo.txt
 ```
 # check the git status
+```
 git status
-
+```
 # list the git branches
+```
 git branch
-
+```
 # switch to another branch
 git checkout dev
 
