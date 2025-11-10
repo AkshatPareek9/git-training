@@ -129,3 +129,16 @@
    vim pre-commit
 
 
+## GitHub Actions (CI/CD)
+
+GitHub Actions allows you to automate workflows directly in your GitHub repository. It is commonly used for CI/CD to automatically build, test, and deploy code on every push.
+
+Pipeline stages: Build → Test → Deploy
+
+Workflow location:
+    <repo_name>/.github/workflows/<example>.yml
+
+
+## Github actions vs Jenkins
+-  **Jenkins** = Self‑hosted automation server for CI/CD pipelines.
+-  **GitHub Actions** = Cloud‑native CI/CD integrated directly into GitHub repositories.
