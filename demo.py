@@ -3,7 +3,7 @@ def my_function():
     return a
 
 
-Password = "abcd1234"
-print("Password = $Password")
+hide = "****"
+print("Password = $hide")
 
 print(my_function())
