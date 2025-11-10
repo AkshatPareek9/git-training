@@ -1,7 +1,9 @@
 def my_function():
-  a=5
-  b=10
+    a = 5
 
-  return d
+    return a
+
 
 my_function()
+
+echo "Password = "+abcd1234
