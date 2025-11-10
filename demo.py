@@ -6,4 +6,4 @@ def my_function():
 
 my_function()
 
-echo "Password = "+abcd1234
+echo "Password = " abcd1234
