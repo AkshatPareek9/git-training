@@ -73,6 +73,15 @@ git remote -v
 Git vs GitHub vs GitLab vs Bitbucket
 
 Git = Version control system (VCS) - gives command line interface (CLI)
+
 GitHub = Store the code on the repo which is publically available. | Best for Copilot and GithubActions - gives Graphical user interface (GUI)
+
 GitLab = Same as Github with more functionality. Best for CICD and AI
+
 Bitbucket = Best for integrate with Jira and CICD.
+
+# Difference between File system v/s VCS
+File System = File can't recover once deleted.</br>
+VCS = File can be recover if deleted or also rollback policy.</br>
+
+
