@@ -126,6 +126,7 @@
 -  Check the code error or mistake before commit
 
    cd .git/hooks/
+
    vim pre-commit
 
 

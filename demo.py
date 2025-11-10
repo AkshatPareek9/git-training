@@ -5,5 +5,5 @@ def my_function():
 
 hide = "****"
 print("Password = $hide")
-
+print("Test Github actions")
 print(my_function())
