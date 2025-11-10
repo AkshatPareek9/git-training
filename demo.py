@@ -3,7 +3,7 @@ def my_function():
     return a
 
 
-echo "Password = acd1234"
+print("Password = acd1234")
 
 print(my_function())
 
