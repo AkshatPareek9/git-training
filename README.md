@@ -94,7 +94,7 @@
     git clone https://github.com/AkshatPareek9/git-training.git
 
 ### Push Code From Local to Git
-**Note:** Beofre push, pull the code from git to local 
+    **Note:** Before push, pull the code from git to local 
 
     git pull origin main --rebase
     git push origin main
